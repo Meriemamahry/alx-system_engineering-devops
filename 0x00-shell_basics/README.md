@@ -12,3 +12,4 @@
 11-lists file contains a script that can list all files in the current directory and the parent of the working directory  and the /boot directory
 12-file_type 'script gives the type of a file named iamafile in tmp directory
 13-symbolic_link contains a script that creates a symbolic link  to /bin/ls
+14-copy_html copy all files *.html to the parent directory that don't exist already or newer

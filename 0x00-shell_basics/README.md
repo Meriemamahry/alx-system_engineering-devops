@@ -14,3 +14,4 @@
 13-symbolic_link contains a script that creates a symbolic link  to /bin/ls
 14-copy_html copy all files "*.html" to the parent directory that don't exist already or newer
 *100-lets_move moves all files starting with uppercqse letter to the directory /tmp/u
+101-clean_emacs file remove all files that end with ~

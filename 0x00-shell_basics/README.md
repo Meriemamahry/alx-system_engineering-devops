@@ -15,3 +15,4 @@
 14-copy_html copy all files "*.html" to the parent directory that don't exist already or newer
 *100-lets_move moves all files starting with uppercqse letter to the directory /tmp/u
 101-clean_emacs file remove all files that end with ~
+102-tree 'script create welcome/to/school

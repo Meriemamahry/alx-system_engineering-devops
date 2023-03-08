@@ -9,3 +9,4 @@
 8-first delete file contains a script that can delete betty file 
 9-firstdirdeletion deletes my_first_directory directory
 10-back file contains a script that changes the working directory to the previous one
+11-lists file contains a script that can list all files in the current directory and the parent of the working directory  and the /boot directory

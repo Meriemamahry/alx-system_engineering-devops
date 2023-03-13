@@ -5,4 +5,5 @@
 4-lastlines contains a script that display the last 10 lines of  /etc/passwd
 5-firstlines contains a script that displays the first 10 lines of file /etc/passwd
 6-third_line displays the third line of the iacta file
-7-file contains a script that  \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School 
+7-file contains a script that  \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
+8-cwd_state writes the output of ls -la command in ls_cwd_content file  

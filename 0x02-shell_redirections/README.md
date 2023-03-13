@@ -11,3 +11,4 @@
 10-no_more_js delete all files in the current directory with js extension
 11-directories counts the number of directories and subdirectories in the current directory
 12-newset_files displays the 10 newest files
+13-unique file contains a script that sort and display just the words that appears once in the input

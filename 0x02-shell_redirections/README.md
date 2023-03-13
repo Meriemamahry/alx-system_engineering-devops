@@ -12,3 +12,4 @@
 11-directories counts the number of directories and subdirectories in the current directory
 12-newset_files displays the 10 newest files
 13-unique file contains a script that sort and display just the words that appears once in the input
+14-findthatword displays lines containing the pattern "root" from the file /etc/passwd

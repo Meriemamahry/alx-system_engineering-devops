@@ -8,3 +8,4 @@
 7-file contains a script that  \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
 8-cwd_state writes the output of ls -la command in ls_cwd_content file 
 9-duplicate_last_line file contains a script that duplicates the last line in iacta file 
+10-no_more_js delete all files in the current directory with js extension

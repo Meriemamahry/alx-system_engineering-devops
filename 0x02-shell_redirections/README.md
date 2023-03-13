@@ -13,3 +13,4 @@
 12-newset_files displays the 10 newest files
 13-unique file contains a script that sort and display just the words that appears once in the input
 14-findthatword displays lines containing the pattern "root" from the file /etc/passwd
+15-countthatword counts the number of lines that contains the word "bin" in /etc/passwd file
